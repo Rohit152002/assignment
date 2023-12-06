@@ -1,0 +1,15 @@
+.product {
+    width: fit-content;
+    background-color: pink;
+    margin: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+    border-radius: 1rem;
+}
+
+img {
+    border-radius: 1rem 1rem 0rem 0;
+    object-fit: cover;
+    width: fit-content;
+    height: 300px;
+}
